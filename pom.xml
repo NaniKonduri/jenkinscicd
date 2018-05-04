@@ -65,13 +65,5 @@
 			</plugin>
 		</plugins>
 	</build>
-	<distributionManagement>
-	<repository>
-		<id>deploymentRepo</id>
-		<name>deployrel</name>
-		<url>http://35.231.66.191:8081/repository/deployrel/</url>
-	</repository>
- 
-
-
+	
 </project>
